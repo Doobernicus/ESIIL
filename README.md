@@ -13,4 +13,7 @@
 
 ## Bio
 
-I grew up in Gordon, Nebraska, but I've been living in South Dakota for the past ten years. I have two daughters that are two and 4, that occupy most of my time. I recently finished my Associates in Pre-engineering, I'll be graduating in may. I plan to finish a Physics degree at SDSM&T begining this fall.
+I grew up in Gordon, Nebraska, but I've been living in South Dakota for the past ten years. I have two daughters that are two and 4, that occupy most of my time. I recently finished my Associates in Pre-engineering, I'll be graduating in may. I plan to finish a Physics degree at SDSM&T begining this fall. I spent last summer working in the Sanford Underground Research Facility in support of Neutrino and Dark Matter detectors.
+
+I took an Intro to Python class last semester, I found the subject fascinating but the class itself was lacking. I learned some basics, but im excited to really learn programming and data management as i feel they will be important for my future work.
+
