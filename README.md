@@ -1,4 +1,4 @@
-# Michael DuBray
+## Michael DuBray
 
 # **Contact Information**
 
