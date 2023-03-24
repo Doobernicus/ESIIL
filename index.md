@@ -6,7 +6,7 @@
 
 * <a href="https://www.linkedin.com/in/michael-dubray-513630263/" target="_blank">LinkedIn</a>
 * <a href="https://github.com/Doobernicus" target="_blank">GitHub</a>
-* mdubray16514@olc.edu
+* <a href="mailto: mdubray16514@olc.edu" target="_blank">**Email**
 
 ## Education
 
