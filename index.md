@@ -13,7 +13,7 @@
 * A.S. Pre-Engineering - OLC
 * HS Diploma - Gordon-Rushville Highschool
 
-## Bio
+## Biography
 
 I grew up in Gordon, Nebraska, but I've been living in South Dakota for the past ten years. I have two daughters that are two and 4, that occupy most of my time. I like to read and play the guitar. I recently finished my Associates in Pre-engineering, I'll be graduating in may. I plan to finish a Physics degree at SDSM&T begining this fall. I spent last summer working in the Sanford Underground Research Facility in support of Neutrino and Dark Matter detectors([Poster](REU Assay Presentation.pdf)). I am interested in quantum physics and astrophysics.
 
