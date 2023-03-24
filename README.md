@@ -1,8 +1,5 @@
 # Michael DuBray
 
-
-![Me in deep thought.]!(https://drive.google.com/drive/folders/1RkbH_7e9_4d8zyyYUOAvfPqGyMrXI1sW)
-
 ## **Contact Information**
 
 * <a href="https://www.linkedin.com/in/michael-dubray-513630263/" target="_blank">LinkedIn</a>
