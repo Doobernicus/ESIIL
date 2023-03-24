@@ -1,5 +1,5 @@
 ## Michael DuBray
-![](headshot.jpg)
+<img src="headshot.jpg" width="200" height="200">
 
 
 ## **Contact Information**
